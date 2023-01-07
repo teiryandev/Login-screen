@@ -1,6 +1,7 @@
 <h1 align="center"> Login screen </h1>
-<img alt="Login screen" src=".github/preview.jpg">
-
+<p align="center">
+  <img alt="login screen" src=".github/preview.jpg" width="100%">
+</p>
 
 
 

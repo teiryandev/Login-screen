@@ -1,6 +1,7 @@
 <h1 align="center"> Login screen </h1>
 <p align="center">
-  <img alt="login screen" src=".github/preview.jpg" width="100%">
+  ![preview](https://user-images.githubusercontent.com/121648071/211168300-d7c11039-75a5-4beb-a5e6-cc1f74341ff0.jpg)
+
 </p>
 
 
